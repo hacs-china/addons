@@ -8,6 +8,6 @@
 
 1. 点击 **安装** 按钮来构建此加载项
    - 如需安装其他集成，请先到 **配置** 页面切换并保存
-     ![操作步骤](https://imtg.hacs.vip/file/AgACAgUAAyEGAASaAU1vAAOxaC_nQrgyvDJ4cwmyaPsFbVeEJHAAAkvBMRt5DYBVwzbNhBzG3zABAAMCAAN3AAM2BA.jpg)
+     ![操作步骤](https://github.com/user-attachments/assets/89fb128c-6cff-49aa-8faa-3a56bca078f7)
 2. 启动此加载项
 3. 切换到到 **日志** 页面并按照提供的指示进行操作
