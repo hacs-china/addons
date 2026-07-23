@@ -7,11 +7,8 @@ startup: once
 boot: manual
 url: https://gitee.com/hacs-china/addons/tree/china/get
 arch:
-  - armhf
-  - armv7
   - aarch64
   - amd64
-  - i386
 init: false
 options:
   component: hacs
